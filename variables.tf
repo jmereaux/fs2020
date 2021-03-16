@@ -5,7 +5,7 @@ variable "ibmcloud_region" {
 
 variable "vpc_name" {
   default = "vpc-jm"
-  description = "Name of your VPC"
+  description = "Name of the VPC"
 }
 
 variable "zone1" {
